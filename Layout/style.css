@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    direction: rtl;
+}
+ header{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(152, 131, 162);
+ }
+ 
+ .bank{
+ display: flex;
+ flex-direction:row
+
+ }
+
+ .banner{
+    width: 100%;
+ }
+ section{
+    display: flex;
+    justify-content: flex-end;
+
+ }
+
+ 
